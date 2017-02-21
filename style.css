@@ -70,13 +70,13 @@ nav, article, nav ul li a,figure, .experiences tr td img{
 }
 #page{
 	width:960px;
-	height:100%;
+	
 	margin:0 auto;
 	position:relative;
 	font-family: "Open Sans", sans-serif !important;
 }
 #article1 {
-	height: 700px;
+	height: 100%;
 	background-image: url('travel.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
