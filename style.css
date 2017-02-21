@@ -129,12 +129,13 @@ figure img{
 	overflow: hidden;
 	margin-left: 30px;
 	margin-right: 30px;
+	margin-top:30%;
 }
 .aboutme{
 
 	width:30%;
 	display: table-cell;
-	margin-top: 30%;
+	
 
 }
 .aboutme h1{
@@ -146,7 +147,7 @@ figure img{
 }
 figure{
 	display: table-cell; 
-	margin-top:30%;
+
 	height:300px;
 	overflow:hidden;
 	width:30%;
@@ -167,7 +168,7 @@ figure img:hover{
 	width:30%;
 	margin-left:30px;
 	display: table-cell; 
-	margin-top: 30%;
+	
 }	
 
 .details h1{
