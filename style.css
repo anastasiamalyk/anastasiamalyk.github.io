@@ -134,7 +134,7 @@ figure img{
 
 	width:30%;
 	display: table-cell;
-	vertical-align: middle;
+	margin-top: 30%;
 
 }
 .aboutme h1{
@@ -146,7 +146,7 @@ figure img{
 }
 figure{
 	display: table-cell; 
-	vertical-align:middle;
+	margin-top:30%;
 	height:300px;
 	overflow:hidden;
 	width:30%;
@@ -167,12 +167,12 @@ figure img:hover{
 	width:30%;
 	margin-left:30px;
 	display: table-cell; 
-	
+	margin-top: 30%;
 }	
 
 .details h1{
 	font-size: 25px;
-	margin-top: 50px;
+	
 }
 .details p{
 	margin-left: 30px;
