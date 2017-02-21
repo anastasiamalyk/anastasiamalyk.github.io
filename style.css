@@ -148,7 +148,7 @@ figure img{
 }
 figure{
 	display: table-cell; 
-	vertical-align: middle;
+	margin-top:10%;
 	overflow:hidden;
 	width:30%;
 }
