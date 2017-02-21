@@ -26,8 +26,8 @@ footer .line{
 nav ul{
 	margin: 0;
 	padding: 0;
-
-	width:150px;
+	float:left;
+	width:185px;
 	list-style-type: none;
 	position:fixed;
 	
