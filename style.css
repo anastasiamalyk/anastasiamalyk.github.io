@@ -165,7 +165,7 @@ figure img:hover{
 
 .details{
 	width:30%;
-	margin-left:30px;
+	
 	margin-right:30px;
 	display: table-cell; 
 	
@@ -176,7 +176,7 @@ figure img:hover{
 	
 }
 .details p{
-	margin-left: 30px;
+	
 	text-align:left;
 }
 .details a{
