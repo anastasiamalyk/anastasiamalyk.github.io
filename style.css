@@ -125,7 +125,7 @@ figure img{
 }
 #article2 .articleBodyclear {
 	display: table; 
-	height:  80%; 
+
 	overflow: hidden;
 	margin-left: 30px;
 	margin-right: 30px;
