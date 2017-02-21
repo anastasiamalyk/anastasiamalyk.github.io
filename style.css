@@ -74,6 +74,9 @@ nav, article, nav ul li a,figure, .experiences tr td img{
 	margin:0 auto;
 	position:relative;
 	font-family: "Open Sans", sans-serif !important;
+	display: flex;
+    	align-items: center;
+    	justify-content: center;
 }
 #article1 {
 	height: 100%;
