@@ -120,7 +120,7 @@ figure img{
 	
 }
 #article2 h2{
-	font-size: 30px;
+	font-size: 40px;
 }
 #article2 .articleBodyclear {
 	
@@ -157,7 +157,7 @@ figure img:hover{
     	filter: alpha(opacity=50);
 }
 .experiences{
-	margin-top: 20%;
+	margin-top: 15%;
 	
 }
 .experiences tr td img{
@@ -201,7 +201,7 @@ figure img:hover{
 	padding: 15px;
 	margin-top:20%;
 	vertical-align:middle;
-	
+	font-size: 40px;
 	line-height: 2;
 	
 }
@@ -211,6 +211,7 @@ figure img:hover{
 }
 #article4 h2{
 	text-align: center;
+	font-size: 40px;
 }
 	
 footer{
