@@ -76,7 +76,7 @@ nav, article, nav ul li a,figure, .experiences tr td img{
 	font-family: "Open Sans", sans-serif !important;
 }
 #article1 {
-	height: 960px;
+	height: 100%;
 	background-image: url('travel.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
@@ -113,7 +113,7 @@ figure img{
 }
 
 #article2 {
-	height: 960px;
+	height: 100%;
 	text-align:center;
 
 
@@ -191,7 +191,7 @@ figure img:hover{
 }	
 
 #article3{
-	height: 960px;
+	height: 100%;
 }
 	
 #article3 h2 {
@@ -208,7 +208,7 @@ figure img:hover{
 }
 
 #article4{
-	height:960px;
+	height:100%;
 }
 #article4 h2{
 	text-align: center;
