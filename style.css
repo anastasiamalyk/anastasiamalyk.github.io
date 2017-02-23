@@ -154,14 +154,15 @@ figure{
 }
 figure img:hover{
 	opacity: 0.5;
-    filter: alpha(opacity=50);
+    	filter: alpha(opacity=50);
 }
 .experiences{
 	margin-top: 20%;
+	line-height: 2;
 }
 .experiences tr td img{
 	border:2px solid black;
-	line-height: 2;
+	
 }
 .experiences tr td a img:hover{
 	opacity: 0.5;
