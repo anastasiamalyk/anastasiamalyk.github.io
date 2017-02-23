@@ -196,12 +196,13 @@ figure img:hover{
 	
 #article3 h2 {
 	text-align: center;
+	font-size: 40px;
 }
 #article3 table, tr, td{
 	padding: 15px;
 	margin-top:20%;
 	vertical-align:middle;
-	font-size: 40px;
+	
 	line-height: 2;
 	
 }
@@ -211,6 +212,7 @@ figure img:hover{
 }
 #article4 h2{
 	text-align: center;
+	font-size: 40px;
 	
 }
 	
